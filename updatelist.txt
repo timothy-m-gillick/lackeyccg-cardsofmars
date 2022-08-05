@@ -1,0 +1,5 @@
+CardsofMars	08-03-22
+plugins/CardsofMars/plugininfo.txt	https://github.com/timothy-m-gillick/lackeyccg-cardsofmars/raw/main/plugininfo.txt	246887
+plugins/CardsofMars/sets/setimages/general/cardback.jpg	https://github.com/timothy-m-gillick/lackeyccg-cardsofmars/raw/main/cardback.jpg	450421
+CardGeneralURLs:		
+https://drive.google.com/drive/folders/13_2FP6VCWKfQ0-dSOv-IW8JdACPnM9uI
